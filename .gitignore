@@ -1,6 +1,7 @@
 .env
 node_modules
 package.json
+<<<<<<< HEAD
 
 # Logs
 logs
@@ -141,3 +142,5 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+=======
+>>>>>>> bc988e1 (.gitignore add)
